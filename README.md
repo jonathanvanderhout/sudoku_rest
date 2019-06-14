@@ -1,24 +1,24 @@
 To setup and run: 
 
-  git clone https://github.com/jonathanvanderhout/sudoku_rest.git
-  
-  cd sudoku_rest
-  
-  ls
-  
-  npm i
-  
-  cd sudoku_rust_wrapper
-  
-  ls
-  
-  neon build
-  
-  cd ..
-  
-  ls
-  
-  node server.js 
+      git clone https://github.com/jonathanvanderhout/sudoku_rest.git
+
+      cd sudoku_rest
+
+      ls
+
+      npm i
+
+      cd sudoku_rust_wrapper
+
+      ls
+
+      neon build
+
+      cd ..
+
+      ls
+
+      node server.js 
   
 
 To use:
